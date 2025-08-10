@@ -6,7 +6,7 @@
 Una aplicación completa para Arch Linux que permite descargar videos, audios, imágenes y otros archivos multimedia desde múltiples plataformas populares de manera sencilla y eficiente.
 
 <div align="center">
-  <img src="https://i.imgur.com/dAIpnkY.png" alt="ArchDownloader Interface" width="800">
+  <img src="https://i.imgur.com/HaDXjDC.png" alt="ArchDownloader Interface" width="800">
   <p><i>Interfaz principal de ArchDownloader</i></p>
 </div>
 Una aplicación completa para Arch Linux que permite descargar videos, audios, imágenes y otros archivos multimedia desde múltiples plataformas populares de manera sencilla y eficiente.
